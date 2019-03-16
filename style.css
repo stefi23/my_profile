@@ -74,6 +74,7 @@ a{text-decoration: none;}
 .list-inline-center i{
 	color:#191716;
 	font-size:25px;
+	padding:5px;
 }
 
 .list-inline-center i:hover {
